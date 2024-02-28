@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #080052; /* rojo oscuro */
+    color: #FFFFFF; /* blanco */
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #0e0d22; /* rojo oscuro */
+    padding: 20px;
+    text-align: center;
+}
+
+.logo img {
+    width: 150px; /* tamaño reducido */
+    display: block; /* para centrar */
+    margin: 0 auto; /* para centrar */
+}
+
+.navbar {
+    margin-top: 10px;
+    background-color: #29293a; /* rojo oscuro más oscuro */
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.navbar a {
+    color: #FFFFFF; /* blanco */
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.content {
+    padding: 20px;
+    text-align: center;
+}
+
+.app {
+    margin-top: 20px;
+}
+
+.app img {
+    width: 100px; /* ajusta según el tamaño deseado */
+    display: block;
+    margin: 0 auto;
+}
+
+.app p {
+    margin-top: 10px;
+}
+
+.logo {
+    color: #FFFFFF;
+}
